@@ -46,7 +46,7 @@ html{
     text-align: center;
 }
 .details img{
-    width: 70%;
+    width: 350px;
     border-radius: 5px;
     border: 1px solid var(--blue);
 }
